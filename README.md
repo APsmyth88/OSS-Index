@@ -1,2 +1,2 @@
 # OSS-Index
-Open Source Security Index
+Andrew Smyth
